@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.20.0] - 2023-10-22
+### Updated
+- Target egui 0.23
+
+## [0.19.0] - 2023-06-12
+### Updated
+- Target egui 0.22
+
+## [0.18.0] - 2023-02-14
+### Updated
+- Target egui 0.21
+- Target winit 0.28
+
+## [0.17.0] - 2023-02-01
+### Updated
+- Target egui 0.20
+- Target webbrowser 0.8
+
 ## [0.16.0] - 2022-08-26
 ### Updated
 - Target egui 0.19
